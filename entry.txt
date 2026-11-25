@@ -1,0 +1,1 @@
+fix: slow login by removing the password check; login is instant now, so is the breach
